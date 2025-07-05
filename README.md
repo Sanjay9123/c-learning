@@ -1,1 +1,2 @@
-this repository used to save my leaning progress 
+This repository used to save my programming pratice files
+
